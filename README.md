@@ -20,3 +20,12 @@ This dataset provides the following important information for each trading sessi
 
 For my project I have only used the Closs price if each day. I have approach this problem as a time series one, where I have continuous price data from which I intend to predict future close price of the stock for next 30 days.
 
+# Software and Libraries
+For this project, I have used the following software and Python libraries:
+
+Python 2.7
+NumPy
+pandas
+Keras
+Tensor-flow
+Jupyter Notebook
