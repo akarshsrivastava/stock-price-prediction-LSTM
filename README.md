@@ -8,7 +8,8 @@ The analysts try to analyze the available data in order to make informed guesses
 
 In my project, I have explored one such technique, Long-Short Term Memory (LSTM) Neural Network algorithm, to predict stock prices. For data with timeframes recurrent neural networks (RNNs) come in handy but recent researches have shown that LSTM, networks are the most popular and useful variants of RNNs.
 
-Dataset:
+# Dataset:
+
 For this project, I have used historical stock price data of ITC stock(listed on India's National Stock Exchange) from January 1, 2014 to October 11, 2020. The dataset is acquired from Yahoo Finance website. 
 
 This dataset provides the following important information for each trading session:
