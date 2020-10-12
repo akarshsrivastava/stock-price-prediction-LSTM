@@ -22,10 +22,10 @@ For my project I have only used the Closs price if each day. I have approach thi
 
 # Software and Libraries
 For this project, I have used the following software and Python libraries:
-
-Python 2.7
-NumPy
-pandas
-Keras
-Tensor-flow
-Jupyter Notebook
+1.Python 2.7
+2. NumPy
+3. pandas
+4. Matplotlib
+5. Keras
+6. Tensor-flow
+7. Jupyter Notebook
